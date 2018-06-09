@@ -1,0 +1,35 @@
+### Generated ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+generated
+site
+asciidoc
+.vertx
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Compilation files ###
+target/
+build/
+dist/
+builds/
+
+### Maven wrapper ###
+.mvn/
+mvnw
+mvnw.cmd
+
+### SO dependant files ###
+.DS_Store
+
+### Logs ###
+*.log.*
+*.log
+hs_err_pid*
